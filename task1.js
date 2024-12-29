@@ -12,4 +12,4 @@
         const y = 10;
         console.log("value of y using const =",y); // Output: 10
 
-       // y = 20;          //Output = Uncaught TypeError: Assignment to constant variable.
+       // y = 20;         //Output = Uncaught TypeError: Assignment to constant variable.
